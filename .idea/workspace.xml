@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="第二天练习结束">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="第三天">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +55,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Python.13-比较运算符">
-    <configuration name="05-转换为整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09-while练习1-100的和">
+    <configuration name="04-if语句的嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,12 +66,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_03/05-转换为整数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_04/04-if语句的嵌套.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-转换成浮点数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-猜拳游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_03/06-转换成浮点数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_04/06-猜拳游戏.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08-转换为布尔值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-if语句的判断注意点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_03/08-转换为布尔值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_04/07-if语句的判断注意点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-算数运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08-While语句的基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_03/09-算数运算符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_04/08-While语句的基本使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13-比较运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09-while练习1-100的和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_03/13-比较运算符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_04/09-while练习1-100的和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.13-比较运算符" />
-        <item itemvalue="Python.09-算数运算符" />
-        <item itemvalue="Python.08-转换为布尔值" />
-        <item itemvalue="Python.06-转换成浮点数" />
-        <item itemvalue="Python.05-转换为整数" />
+        <item itemvalue="Python.09-while练习1-100的和" />
+        <item itemvalue="Python.08-While语句的基本使用" />
+        <item itemvalue="Python.07-if语句的判断注意点" />
+        <item itemvalue="Python.06-猜拳游戏" />
+        <item itemvalue="Python.04-if语句的嵌套" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,8 @@
       <workItem from="1597907232823" duration="1052000" />
       <workItem from="1597912189969" duration="4432000" />
       <workItem from="1597931346373" duration="1112000" />
-      <workItem from="1597974873511" duration="13463000" />
+      <workItem from="1597974873511" duration="29310000" />
+      <workItem from="1598503374646" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -202,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597974953927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第三天">
+      <created>1598264593349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598264593349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,58 +242,63 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二天练习结束" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二天练习结束" />
+    <MESSAGE value="第三天" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三天" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="95" key="#Inspections" timestamp="1598281066272">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1598281066272" />
     <state x="548" y="156" key="FileChooserDialogImpl" timestamp="1597908975641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597908975641" />
-    <state width="723" height="207" key="GridCell.Tab.0.bottom" timestamp="1598260704728">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1598499680848">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="723" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597916915338" />
-    <state width="723" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598260704728" />
-    <state width="723" height="207" key="GridCell.Tab.0.center" timestamp="1598260704728">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598499680848" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1598499680847">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="723" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597916915338" />
-    <state width="723" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598260704728" />
-    <state width="723" height="207" key="GridCell.Tab.0.left" timestamp="1598260704727">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598499680847" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1598499680847">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="723" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597916915338" />
-    <state width="723" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598260704727" />
-    <state width="723" height="207" key="GridCell.Tab.0.right" timestamp="1598260704728">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598499680847" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1598499680848">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="723" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597916915338" />
-    <state width="723" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598260704728" />
-    <state width="724" height="262" key="GridCell.Tab.1.bottom" timestamp="1597821173049">
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598499680848" />
+    <state width="723" height="258" key="GridCell.Tab.1.bottom" timestamp="1598434804370">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="724" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597821173049" />
-    <state width="724" height="262" key="GridCell.Tab.1.center" timestamp="1597821173049">
+    <state width="723" height="258" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598434804370" />
+    <state width="723" height="258" key="GridCell.Tab.1.center" timestamp="1598434804370">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="724" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597821173049" />
-    <state width="724" height="262" key="GridCell.Tab.1.left" timestamp="1597821173048">
+    <state width="723" height="258" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1598434804370" />
+    <state width="723" height="258" key="GridCell.Tab.1.left" timestamp="1598434804370">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="724" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597821173048" />
-    <state width="724" height="262" key="GridCell.Tab.1.right" timestamp="1597821173049">
+    <state width="723" height="258" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1598434804370" />
+    <state width="723" height="258" key="GridCell.Tab.1.right" timestamp="1598434804370">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="724" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597821173049" />
-    <state x="315" y="123" key="SettingsEditor" timestamp="1597976444738">
+    <state width="723" height="258" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598434804370" />
+    <state x="315" y="123" key="SettingsEditor" timestamp="1598323000100">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="371" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597912727037" />
-    <state x="315" y="123" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1597976444738" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1597975443757">
+    <state x="315" y="123" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598323000100" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1598264602096">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597975443757" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598264602096" />
     <state x="565" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597908840916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -298,11 +311,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="156" y="106" width="1286" height="634" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1597756378340" />
-    <state x="46" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1598261188543">
+    <state x="46" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1598434217465">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="46" y="152" width="672" height="670" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597915930074" />
-    <state x="46" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598261188543" />
+    <state x="46" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598434217465" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -316,16 +329,21 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="变量以及数据类型 Coverage Results" MODIFIED="1597756365222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
-    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-使用代码进行进制转换 Coverage Results" MODIFIED="1597918848183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
-    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-输入语句的使用 Coverage Results" MODIFIED="1597915633726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
-    <SUITE FILE_PATH="coverage/Demo$06_.coverage" NAME="06-转换成浮点数 Coverage Results" MODIFIED="1597976334538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
+    <SUITE FILE_PATH="coverage/Demo$06_.coverage" NAME="06-猜拳游戏 Coverage Results" MODIFIED="1598427515452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$08_.coverage" NAME="08-转换为布尔值 Coverage Results" MODIFIED="1597997777411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
     <SUITE FILE_PATH="coverage/Demo$13_.coverage" NAME="13-比较运算符 Coverage Results" MODIFIED="1598258253511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
+    <SUITE FILE_PATH="coverage/Demo$09_while1_100.coverage" NAME="09-while练习1-100的和 Coverage Results" MODIFIED="1598499680837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$01___1_.coverage" NAME="01_变量以及数据类型 (1) Coverage Results" MODIFIED="1597821562797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
     <SUITE FILE_PATH="coverage/Demo$09_.coverage" NAME="09-算数运算符 Coverage Results" MODIFIED="1598002907112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
     <SUITE FILE_PATH="coverage/Demo$05_.coverage" NAME="05-转换为整数 Coverage Results" MODIFIED="1597932607110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
-    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01_整数的表示方式 Coverage Results" MODIFIED="1597916013220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
+    <SUITE FILE_PATH="coverage/Demo$04_if.coverage" NAME="04-if语句的嵌套 Coverage Results" MODIFIED="1598345786051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04-数据类型的转换 Coverage Results" MODIFIED="1597931862787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
+    <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="变量以及数据类型 Coverage Results" MODIFIED="1597756365222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
+    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-使用代码进行进制转换 Coverage Results" MODIFIED="1597918848183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
+    <SUITE FILE_PATH="coverage/Demo$07_if.coverage" NAME="07-if语句的判断注意点 Coverage Results" MODIFIED="1598428974529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
+    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-输入语句的使用 Coverage Results" MODIFIED="1597915633726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
+    <SUITE FILE_PATH="coverage/Demo$02_if.coverage" NAME="02-if语句练习 Coverage Results" MODIFIED="1598324046467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
+    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01-条件判断语句 Coverage Results" MODIFIED="1598322782066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
+    <SUITE FILE_PATH="coverage/Demo$08_While.coverage" NAME="08-While语句的基本使用 Coverage Results" MODIFIED="1598434741709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
   </component>
 </project>
