@@ -25,9 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="第五天">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="第6天">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_06/01-字符串相关的操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_06/01-字符串相关的操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_07/01-冒泡排序的优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_07/01-冒泡排序的优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_07/02-求列表的最大数及下标.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_07/02-求列表的最大数及下标.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +64,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
-  <component name="RunManager" selected="Python.12-列表的排序和反转">
-    <configuration name="08-列表删除修改和查询" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01-冒泡排序的优化">
+    <configuration name="01-冒泡排序的优化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,12 +78,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/08-列表删除修改和查询.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_07/01-冒泡排序的优化.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-列表的遍历" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-求列表的最大数及下标" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/09-列表的遍历.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_07/02-求列表的最大数及下标.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-交换两个变量的值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-移除字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/10-交换两个变量的值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_07/03-移除字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11-冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13-可变数据类型和不可变数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/11-冒泡排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/13-可变数据类型和不可变数据类型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-列表的排序和反转" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14-列表的浅复制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +171,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/12-列表的排序和反转.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_06/14-列表的浅复制.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12-列表的排序和反转" />
-        <item itemvalue="Python.11-冒泡排序" />
-        <item itemvalue="Python.10-交换两个变量的值" />
-        <item itemvalue="Python.09-列表的遍历" />
-        <item itemvalue="Python.08-列表删除修改和查询" />
+        <item itemvalue="Python.01-冒泡排序的优化" />
+        <item itemvalue="Python.03-移除字符串" />
+        <item itemvalue="Python.02-求列表的最大数及下标" />
+        <item itemvalue="Python.14-列表的浅复制" />
+        <item itemvalue="Python.13-可变数据类型和不可变数据类型" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +210,10 @@
       <workItem from="1598577933442" duration="6458000" />
       <workItem from="1598668141143" duration="4151000" />
       <workItem from="1598752980988" duration="9826000" />
-      <workItem from="1598925993117" duration="17210000" />
+      <workItem from="1598925993117" duration="21888000" />
+      <workItem from="1599636923486" duration="7025000" />
+      <workItem from="1599745624352" duration="96000" />
+      <workItem from="1599745737610" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -245,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598865485639</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第6天">
+      <created>1598974594302</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598974594302</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,37 +292,39 @@
     <MESSAGE value="第三天" />
     <MESSAGE value="第四天" />
     <MESSAGE value="第五天" />
-    <option name="LAST_COMMIT_MESSAGE" value="第五天" />
+    <MESSAGE value="第6天" />
+    <option name="LAST_COMMIT_MESSAGE" value="第6天" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="95" key="#Inspections" timestamp="1598281066272">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1598281066272" />
-    <state x="548" y="156" key="FileChooserDialogImpl" timestamp="1597908975641">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1599746373415">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597908975641" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1598974105192">
+    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599746373415" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1599746095220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598974105192" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1598974105192">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599746095220" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1599746095219">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598974105192" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1598974105192">
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599746095219" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1599746095219">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598974105192" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1598974105192">
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599746095219" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1599746095220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598974105192" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599746095220" />
     <state width="723" height="257" key="GridCell.Tab.1.bottom" timestamp="1598866637866">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -339,19 +353,20 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="617" y="137" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598974009118" />
-    <state x="281" y="123" width="914" height="824" key="SettingsEditor" timestamp="1598945368149">
+    <state x="354" y="124" width="914" height="824" key="SettingsEditor" timestamp="1599746392661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="-38" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598580980619" />
-    <state x="281" y="123" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598945368149" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1598865495676">
+    <state x="354" y="124" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599746392661" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1598974604807">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598865495676" />
-    <state x="565" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597908840916">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598974604807" />
+    <state x="565" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599746084549">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="565" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597908840916" />
+    <state x="565" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1599746084549" />
     <state x="156" y="106" width="1286" height="634" key="dock-window-1" timestamp="1597756378340">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -381,9 +396,9 @@
     <SUITE FILE_PATH="coverage/Demo$07_.coverage" NAME="07-列表的操作 Coverage Results" MODIFIED="1598945964584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$12_.coverage" NAME="12-列表的排序和反转 Coverage Results" MODIFIED="1598974105182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$06_.coverage" NAME="06-列表的基本使用 Coverage Results" MODIFIED="1598945278418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
-    <SUITE FILE_PATH="coverage/Demo$13_.coverage" NAME="13-比较运算符 Coverage Results" MODIFIED="1598258253511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
     <SUITE FILE_PATH="coverage/Demo$09_while1_100.coverage" NAME="09-while练习1-100的和 Coverage Results" MODIFIED="1598499680837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$08_.coverage" NAME="08-列表删除修改和查询 Coverage Results" MODIFIED="1598954052792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
+    <SUITE FILE_PATH="coverage/Demo$13_.coverage" NAME="13-可变数据类型和不可变数据类型 Coverage Results" MODIFIED="1599029701714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$05_format.coverage" NAME="05-字符串format方法的使用 Coverage Results" MODIFIED="1598943374736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$01___1_.coverage" NAME="01_变量以及数据类型 (1) Coverage Results" MODIFIED="1597821562797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
     <SUITE FILE_PATH="coverage/Demo$09_.coverage" NAME="09-列表的遍历 Coverage Results" MODIFIED="1598969039655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
@@ -394,10 +409,11 @@
     <SUITE FILE_PATH="coverage/Demo$11_.coverage" NAME="11-冒泡排序 Coverage Results" MODIFIED="1598972522247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="变量以及数据类型 Coverage Results" MODIFIED="1597756365222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
     <SUITE FILE_PATH="coverage/Demo$07_if.coverage" NAME="07-if语句的判断注意点 Coverage Results" MODIFIED="1598428974529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
-    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-珠峰问题 Coverage Results" MODIFIED="1598582413663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_05" />
-    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-字符串的编码集 Coverage Results" MODIFIED="1598924766650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
+    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-移除字符串 Coverage Results" MODIFIED="1599725319996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
+    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-求列表的最大数及下标 Coverage Results" MODIFIED="1599708817913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
+    <SUITE FILE_PATH="coverage/Demo$14_.coverage" NAME="14-列表的浅复制 Coverage Results" MODIFIED="1599031483456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$02_if.coverage" NAME="02-if语句练习 Coverage Results" MODIFIED="1598324046467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$08_While.coverage" NAME="08-While语句的基本使用 Coverage Results" MODIFIED="1598434741709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
-    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01-字符串相关的操作 Coverage Results" MODIFIED="1598866881414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
+    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01-冒泡排序的优化 Coverage Results" MODIFIED="1599745957387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
   </component>
 </project>
