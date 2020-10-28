@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="09">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="基础01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +67,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Django项目/hellodjango" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
-  <component name="RunManager" selected="Python.03 global与nonlobal">
-    <configuration name="02-名称空间和作用域" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04-闭包函数的应用">
+    <configuration name="01-函数对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,12 +79,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_01/02-名称空间和作用域.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_02/01-函数对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-函数嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_02/02-函数嵌套.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13-map的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-闭包函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +145,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_09/13-map的使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_02/03-闭包函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14-reduce的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-闭包函数的应用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,34 +167,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_09/14-reduce的使用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15-高阶函数的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_09/15-高阶函数的使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_02/04-闭包函数的应用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04-闭包函数的应用" />
+        <item itemvalue="Python.03-闭包函数" />
+        <item itemvalue="Python.02-函数嵌套" />
+        <item itemvalue="Python.01-函数对象" />
         <item itemvalue="Python.03 global与nonlobal" />
-        <item itemvalue="Python.02-名称空间和作用域" />
-        <item itemvalue="Python.15-高阶函数的使用" />
-        <item itemvalue="Python.14-reduce的使用" />
-        <item itemvalue="Python.13-map的使用" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,7 @@
       <workItem from="1602202932782" duration="6606000" />
       <workItem from="1602508450434" duration="14811000" />
       <workItem from="1602726683312" duration="30000" />
-      <workItem from="1602743937921" duration="20982000" />
+      <workItem from="1602743937921" duration="35803000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -302,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602752734279</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="基础01">
+      <created>1603455500849</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603455500849</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +348,8 @@
     <MESSAGE value="第7天" />
     <MESSAGE value="第7天完成" />
     <MESSAGE value="09" />
-    <option name="LAST_COMMIT_MESSAGE" value="09" />
+    <MESSAGE value="基础01" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="95" key="#Inspections" timestamp="1598281066272">
@@ -357,46 +365,46 @@
     </state>
     <state x="548" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597908975641" />
     <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602576022902" />
-    <state width="723" height="303" key="GridCell.Tab.0.bottom" timestamp="1603358047572">
+    <state width="723" height="462" key="GridCell.Tab.0.bottom" timestamp="1603865400020">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="723" height="303" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603358047572" />
-    <state width="723" height="303" key="GridCell.Tab.0.center" timestamp="1603358047572">
+    <state width="723" height="462" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603865400020" />
+    <state width="723" height="462" key="GridCell.Tab.0.center" timestamp="1603865400019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="723" height="303" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603358047572" />
-    <state width="723" height="303" key="GridCell.Tab.0.left" timestamp="1603358047572">
+    <state width="723" height="462" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603865400019" />
+    <state width="723" height="462" key="GridCell.Tab.0.left" timestamp="1603865400019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="723" height="303" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603358047572" />
-    <state width="723" height="303" key="GridCell.Tab.0.right" timestamp="1603358047572">
+    <state width="723" height="462" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603865400019" />
+    <state width="723" height="462" key="GridCell.Tab.0.right" timestamp="1603865400020">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="723" height="303" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603358047572" />
-    <state width="723" height="257" key="GridCell.Tab.1.bottom" timestamp="1598866637866">
+    <state width="723" height="462" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603865400020" />
+    <state width="724" height="265" key="GridCell.Tab.1.bottom" timestamp="1603783256102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
-    <state width="723" height="257" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598866637866" />
-    <state width="723" height="257" key="GridCell.Tab.1.center" timestamp="1598866637866">
+    <state width="724" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603783256102" />
+    <state width="724" height="265" key="GridCell.Tab.1.center" timestamp="1603783256102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
-    <state width="723" height="257" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1598866637866" />
-    <state width="723" height="257" key="GridCell.Tab.1.left" timestamp="1598866637866">
+    <state width="724" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1603783256102" />
+    <state width="724" height="265" key="GridCell.Tab.1.left" timestamp="1603783256101">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
-    <state width="723" height="257" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1598866637866" />
-    <state width="723" height="257" key="GridCell.Tab.1.right" timestamp="1598866637866">
+    <state width="724" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1603783256101" />
+    <state width="724" height="265" key="GridCell.Tab.1.right" timestamp="1603783256102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
-    <state width="723" height="257" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598866637866" />
+    <state width="724" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1603783256102" />
     <state x="663" y="256" width="820" height="578" key="Registry" timestamp="1598846080855">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -405,15 +413,15 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="617" y="137" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598974009118" />
-    <state x="404" y="0" width="1132" height="834" key="SettingsEditor" timestamp="1603268986564">
+    <state x="404" y="0" width="1132" height="834" key="SettingsEditor" timestamp="1603845718328">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="-38" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598580980619" />
-    <state x="404" y="0" width="1132" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603268986564" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1602752747035">
+    <state x="404" y="0" width="1132" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603845718328" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1603455514047">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602752747035" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603455514047" />
     <state x="565" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602662237591">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -431,11 +439,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="849" y="207" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1602662278459" />
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603358153447">
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603784649455">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="46" y="152" width="672" height="670" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598669009210" />
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603358153447" />
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603784649455" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,15 +464,15 @@
     <SUITE FILE_PATH="coverage/Demo$10_.coverage" NAME="10-自定义匿名函数的使用场景 Coverage Results" MODIFIED="1602679923255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$03_globalnonlobal.coverage" NAME="03 global与nonlobal Coverage Results" MODIFIED="1603358044616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_01" />
     <SUITE FILE_PATH="coverage/Demo$12_filter_map_reduce.coverage" NAME="12-filter&amp;map&amp;reduce方法 Coverage Results" MODIFIED="1602745053629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
-    <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04-可变参数 Coverage Results" MODIFIED="1602556334123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
+    <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04-闭包函数的应用 Coverage Results" MODIFIED="1603865400011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_02" />
     <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="变量以及数据类型 Coverage Results" MODIFIED="1597756365222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
-    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-移除字符串 Coverage Results" MODIFIED="1599748205365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
+    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-闭包函数 Coverage Results" MODIFIED="1603864792831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_02" />
     <SUITE FILE_PATH="coverage/Demo$16_.coverage" NAME="16-字典的练习 Coverage Results" MODIFIED="1600154526186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$14_.coverage" NAME="14-列表的浅复制 Coverage Results" MODIFIED="1599031483456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$14_update.coverage" NAME="14-update方法的使用 Coverage Results" MODIFIED="1600071880176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$02_if.coverage" NAME="02-if语句练习 Coverage Results" MODIFIED="1598324046467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$08_While.coverage" NAME="08-While语句的基本使用 Coverage Results" MODIFIED="1598434741709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
-    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01-函数的回顾 Coverage Results" MODIFIED="1602488039626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
+    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01-函数对象 Coverage Results" MODIFIED="1603702427978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_02" />
     <SUITE FILE_PATH="coverage/Demo$07_.coverage" NAME="07-递归的使用 Coverage Results" MODIFIED="1602644871679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$05_evaljson.coverage" NAME="05-eval和json的使用 Coverage Results" MODIFIED="1601275074708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$09_while1_100.coverage" NAME="09-while练习1-100的和 Coverage Results" MODIFIED="1598499680837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
@@ -478,7 +486,7 @@
     <SUITE FILE_PATH="coverage/Demo$11_.coverage" NAME="11-函数调用函数 Coverage Results" MODIFIED="1601972251215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$07_if.coverage" NAME="07-if语句的判断注意点 Coverage Results" MODIFIED="1598428974529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$14_reduce.coverage" NAME="14-reduce的使用 Coverage Results" MODIFIED="1602747480552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
-    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-名称空间和作用域 Coverage Results" MODIFIED="1603352441223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_01" />
+    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-函数嵌套 Coverage Results" MODIFIED="1603783316954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_02" />
     <SUITE FILE_PATH="coverage/Demo$15_.coverage" NAME="15-高阶函数的使用 Coverage Results" MODIFIED="1602752617212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$17_2.coverage" NAME="17-字典的练习2 Coverage Results" MODIFIED="1600156175791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$18_.coverage" NAME="18-字典的推导式 Coverage Results" MODIFIED="1600156924465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
