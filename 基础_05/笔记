@@ -1,0 +1,62 @@
+1.有参装饰器
+    # 要使用语法糖是不能修改参数的
+    from functools import wraps
+    def deco(x,y,z):
+        @ wraps(func)
+        def outter(func):
+            wrapper(*args,**kwargs)
+                res = func(*args,**kwargs)
+                return res
+            return wrapper
+        return outter
+    @outter # outter(index)
+
+
+    @deco(1,2,3)
+    # @outter ==> (wrapper)原函数名=outer(被装饰的函数)
+
+
+    2.分析@auth(db_type='file')的执行过程
+          @deco(1,2,3)
+    # @outter ==> (wrapper)原函数名=outer(被装饰的函数)
+
+    3.简述什么是可迭代对象、什么是迭代器对象
+        __iter__可迭代对象
+        __iter__迭代器对象
+        __next__
+    4.简述迭代器的优缺点
+
+    5.简述for循环的工作原理
+        for x in 可迭代对象
+            print(x)
+        先调可迭代对象的iter方法转为迭代器对象,
+        调用next(迭代器对象)
+        然后一直取值，知道出现异常，for循环会捕捉到异常break
+    6.自定义迭代器实现range功能
+
+    def func():
+        print('1111')
+        yield 1
+        print('2222')
+        yield 2
+        print('3333')
+        yield 3
+    g = func()
+    res1 = next(g)
+    res1 = next(g)
+    res1 = next(g)
+    res1 = next(g)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
