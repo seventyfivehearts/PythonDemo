@@ -1,0 +1,5 @@
+2020-11-24 13:44:04 PM - root - DEBUG -01-logging模块:  调试debug
+2020-11-24 13:44:04 PM - root - INFO -01-logging模块:  消息info
+2020-11-24 13:44:04 PM - root - WARNING -01-logging模块:  警告warn
+2020-11-24 13:44:04 PM - root - ERROR -01-logging模块:  错误error
+2020-11-24 13:44:04 PM - root - CRITICAL -01-logging模块:  严重critical
