@@ -10,7 +10,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="基础08--09">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="基础10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,32 +53,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Django项目/hellodjango" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
-  <component name="RunManager" selected="Python.02-re模块">
-    <configuration name="01-无参装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_03/01-无参装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.03-属性查找">
     <configuration name="01-logging模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-configparser模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-实现面向对象编程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_09/02-configparser模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_11/02-实现面向对象编程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-haslib模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-属性查找" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_09/03-haslib模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础_11/03-属性查找.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03-属性查找" />
+        <item itemvalue="Python.02-实现面向对象编程" />
         <item itemvalue="Python.02-re模块" />
         <item itemvalue="Python.src" />
         <item itemvalue="Python.01-logging模块" />
-        <item itemvalue="Python.03-haslib模块" />
-        <item itemvalue="Python.02-configparser模块" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +212,10 @@
       <workItem from="1602743937921" duration="76986000" />
       <workItem from="1604479261163" duration="39217000" />
       <workItem from="1605505256533" duration="53486000" />
-      <workItem from="1606094426053" duration="26710000" />
+      <workItem from="1606094426053" duration="29352000" />
+      <workItem from="1606815700717" duration="638000" />
+      <workItem from="1606891596327" duration="9322000" />
+      <workItem from="1607306061122" duration="14389000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -376,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606184615863</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="基础10">
+      <created>1606276489721</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606276489721</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,73 +399,62 @@
     <MESSAGE value="基础06" />
     <MESSAGE value="基础07" />
     <MESSAGE value="基础08--09" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础08--09" />
+    <MESSAGE value="基础10" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础10" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="95" key="#Inspections" timestamp="1598281066272">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1598281066272" />
     <state x="651" y="279" key="#Notifications" timestamp="1601188974069">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="651" y="279" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1601188974069" />
-    <state x="984" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605751753542">
+    <state x="984" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606891655352">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="984" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1605751753542" />
+    <state x="984" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1606891655352" />
     <state x="984" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1605603053872" />
-    <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1604415179347">
+    <state x="548" y="164" key="FileChooserDialogImpl" timestamp="1606277517520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604415179347" />
+    <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606277517520" />
+    <state width="646" height="161" key="GridCell.Tab.0.bottom" timestamp="1607352323471">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597908975641" />
-    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604415179347" />
-    <state width="632" height="345" key="GridCell.Tab.0.bottom" timestamp="1606222799785">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="531" height="304" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605841659586" />
+    <state width="646" height="161" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607352323471" />
     <state width="632" height="345" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606222799785" />
-    <state width="632" height="345" key="GridCell.Tab.0.center" timestamp="1606222799784">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="646" height="161" key="GridCell.Tab.0.center" timestamp="1607352323471">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="531" height="304" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605841659586" />
+    <state width="646" height="161" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1607352323471" />
     <state width="632" height="345" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="632" height="345" key="GridCell.Tab.0.left" timestamp="1606222799784">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="646" height="161" key="GridCell.Tab.0.left" timestamp="1607352323471">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="531" height="304" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605841659586" />
+    <state width="646" height="161" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1607352323471" />
     <state width="632" height="345" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="632" height="345" key="GridCell.Tab.0.right" timestamp="1606222799784">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="646" height="161" key="GridCell.Tab.0.right" timestamp="1607352323471">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598668430769" />
-    <state width="531" height="304" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605841659586" />
+    <state width="646" height="161" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1607352323471" />
     <state width="632" height="345" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
     <state width="600" height="272" key="GridCell.Tab.1.bottom" timestamp="1606196368936">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
     <state width="723" height="261" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603962855127" />
     <state width="600" height="272" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
     <state width="600" height="272" key="GridCell.Tab.1.center" timestamp="1606196368936">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
     <state width="723" height="261" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1603962855127" />
     <state width="600" height="272" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
     <state width="600" height="272" key="GridCell.Tab.1.left" timestamp="1606196368936">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
     <state width="723" height="261" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1603962855127" />
     <state width="600" height="272" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
     <state width="600" height="272" key="GridCell.Tab.1.right" timestamp="1606196368936">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598581988326" />
     <state width="723" height="261" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1603962855127" />
     <state width="600" height="272" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
     <state x="663" y="256" width="820" height="578" key="Registry" timestamp="1598846080855">
@@ -488,40 +465,29 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="617" y="137" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1598974009118" />
-    <state x="404" y="1" width="1132" height="863" key="SettingsEditor" timestamp="1606208354590">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="155" y="0" width="1132" height="863" key="SettingsEditor" timestamp="1607330748412">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="-38" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598580980619" />
-    <state x="155" y="0" width="1132" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605594803928" />
+    <state x="155" y="0" width="1132" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1607330748412" />
     <state x="404" y="1" width="1132" height="863" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606208354590" />
-    <state x="361" y="159" key="Vcs.Push.Dialog.v2" timestamp="1606184623019">
+    <state x="361" y="159" key="Vcs.Push.Dialog.v2" timestamp="1606276505758">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605771653934" />
-    <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606184623019" />
+    <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606276505758" />
     <state x="565" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605599798037">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="565" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597908840916" />
     <state x="565" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1605505710215" />
     <state x="565" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1605599798037" />
-    <state x="156" y="106" width="1286" height="634" key="dock-window-1" timestamp="1597756378340">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="156" y="106" width="1286" height="634" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1597756378339" />
-    <state x="156" y="106" width="1286" height="634" key="dock-window-2" timestamp="1597756378340">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="156" y="106" width="1286" height="634" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1597756378340" />
     <state x="849" y="207" key="git4idea.merge.GitPullDialog" timestamp="1602662278459">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="849" y="207" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1602662278459" />
-    <state x="662" y="238" width="672" height="703" key="search.everywhere.popup" timestamp="1606116090735">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1607331282431">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="46" y="152" width="672" height="670" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598669009210" />
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1605753411567" />
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1607331282431" />
     <state x="662" y="238" width="672" height="703" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606116090735" />
   </component>
   <component name="XDebuggerManager">
@@ -549,7 +515,7 @@
     <SUITE FILE_PATH="coverage/Demo$12_filter_map_reduce.coverage" NAME="12-filter&amp;map&amp;reduce方法 Coverage Results" MODIFIED="1602745053629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04-匿名函数的应用 Coverage Results" MODIFIED="1605582989400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_06" />
     <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="有参装饰器 Coverage Results" MODIFIED="1604396083972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_04" />
-    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-模块搜索路径的优先级 Coverage Results" MODIFIED="1605684237848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_07" />
+    <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03-属性查找 Coverage Results" MODIFIED="1607352213717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_11" />
     <SUITE FILE_PATH="coverage/Demo$16_.coverage" NAME="16-字典的练习 Coverage Results" MODIFIED="1600154526186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$14_.coverage" NAME="14-列表的浅复制 Coverage Results" MODIFIED="1599031483456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$run1.coverage" NAME="run1 Coverage Results" MODIFIED="1605597649621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_06" />
@@ -577,7 +543,7 @@
     <SUITE FILE_PATH="coverage/Demo$11_.coverage" NAME="11-函数调用函数 Coverage Results" MODIFIED="1601972251215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$07_if.coverage" NAME="07-if语句的判断注意点 Coverage Results" MODIFIED="1598428974529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$14_reduce.coverage" NAME="14-reduce的使用 Coverage Results" MODIFIED="1602747480552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
-    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-迭代器 Coverage Results" MODIFIED="1604643612723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_04" />
+    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02-实现面向对象编程 Coverage Results" MODIFIED="1607331504329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_11" />
     <SUITE FILE_PATH="coverage/Demo$run.coverage" NAME="run Coverage Results" MODIFIED="1605604306758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_07" />
     <SUITE FILE_PATH="coverage/Demo$15_.coverage" NAME="15-高阶函数的使用 Coverage Results" MODIFIED="1602752617212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$04_sys.coverage" NAME="04-sys模块 Coverage Results" MODIFIED="1605928748792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
