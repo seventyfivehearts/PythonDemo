@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/12/2 14:54
 # @Author  : sunzhen
-# @File    : 01-面向对象介绍.py
+# @File    : 笔记-面向对象介绍.py
 # @Software: PyCharm
 
 """

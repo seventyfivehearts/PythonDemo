@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/21 11:20
 # @Author  : sunzhen
-# @File    : 01-json与pickle模块.py
+# @File    : 笔记-json与pickle模块.py
 # @Software: PyCharm
 
 #  1.什么是序列化

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/24 10:24
 # @Author  : sunzhen
-# @File    : 01-logging模块.py
+# @File    : 笔记-logging模块.py
 # @Software: PyCharm
 import logging
 

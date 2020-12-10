@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/16 15:28
 # @Author  : sunzhen
-# @File    : 01-二分法.py
+# @File    : 笔记-二分法.py
 # @Software: PyCharm
 
 # 算法:最高效解决问题的方法

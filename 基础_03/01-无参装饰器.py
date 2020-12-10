@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/28 16:33
 # @Author  : sunzhen
-# @File    : 01-无参装饰器.py
+# @File    : 笔记-无参装饰器.py
 # @Software: PyCharm
 
 # 储备知识

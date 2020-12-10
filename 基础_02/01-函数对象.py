@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/23 20:20
 # @Author  : sunzhen
-# @File    : 01-函数对象.py
+# @File    : 笔记-函数对象.py
 # @Software: PyCharm
 '''
 1.函数对象

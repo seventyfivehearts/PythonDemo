@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/3 15:10
 # @Author  : sunzhen
-# @File    : 01-装饰器补充.py
+# @File    : 笔记-装饰器补充.py
 # @Software: PyCharm
 
 # 将原函数的属性赋值给wrapper

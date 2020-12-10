@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/19 16:06
 # @Author  : sunzhen
-# @File    : 01-时间模块.py
+# @File    : 笔记-时间模块.py
 # @Software: PyCharm
 
 # time 模块
@@ -46,11 +46,11 @@ s_time = time.localtime()
 
 # 需要掌握的 format string ---> timestamp
 
-# 1988-01-01 11:11:11  + 7天
+# 1988-笔记-笔记 11:11:11  + 7天
 
 # 1.先把格式化字符串时间转为结构化时间
 
-# struct_time = time.strptime('1988-01-01 11:11:11',
+# struct_time = time.strptime('1988-笔记-笔记 11:11:11',
 #                             '%Y-%m-%d %H:%M:%S')
 # 2.在把结构化时间转为时间戳
 # timestamp = time.mktime(struct_time) + 7*24*60*60
