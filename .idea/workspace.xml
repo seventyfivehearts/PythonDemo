@@ -10,18 +10,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="面向对象进阶">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="面向对象进阶(继承与多态)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/01 继承的基本使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/01 继承的基本使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/02 继承的注意事项.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/02 继承的注意事项.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/03 类方法和静态方法的回顾.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/03 类方法和静态方法的回顾.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/04 私有属性的继承特点.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/04 私有属性的继承特点.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/05 新式类和经典类.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/05 新式类和经典类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/06 Python2和Python3的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/06 Python2和Python3的区别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/07 is &amp; isinstance的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/07 is &amp; isinstance的使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/08 子类重写父类方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/08 子类重写父类方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/09 不使用多态的问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/09 不使用多态的问题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 继承和多态/10 多态的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/10 多态的使用.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +217,7 @@
       <workItem from="1606891596327" duration="9322000" />
       <workItem from="1607306061122" duration="61210000" />
       <workItem from="1607677389187" duration="3130000" />
-      <workItem from="1607842826345" duration="47567000" />
+      <workItem from="1607842826345" duration="48425000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -404,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608104641158</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="面向对象进阶(继承与多态)">
+      <created>1608283346532</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1608283346532</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +440,8 @@
     <MESSAGE value="基础11" />
     <MESSAGE value="面向对象基础" />
     <MESSAGE value="面向对象进阶" />
-    <option name="LAST_COMMIT_MESSAGE" value="面向对象进阶" />
+    <MESSAGE value="面向对象进阶(继承与多态)" />
+    <option name="LAST_COMMIT_MESSAGE" value="面向对象进阶(继承与多态)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="279" key="#Notifications" timestamp="1601188974069">
@@ -505,10 +503,10 @@
     </state>
     <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1607927787436" />
     <state x="404" y="1" width="1132" height="863" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606208354590" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1608104655429">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1608283359798">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608104655429" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608283359798" />
     <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606276505758" />
     <state x="565" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605599798037">
       <screen x="0" y="0" width="1536" height="864" />
