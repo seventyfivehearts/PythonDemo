@@ -10,8 +10,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="面向对象基础">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="面向对象进阶">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/01 继承的基本使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/01 继承的基本使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/02 继承的注意事项.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/02 继承的注意事项.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/03 类方法和静态方法的回顾.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/03 类方法和静态方法的回顾.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/04 私有属性的继承特点.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/04 私有属性的继承特点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/05 新式类和经典类.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/05 新式类和经典类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/06 Python2和Python3的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/06 Python2和Python3的区别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/07 is &amp; isinstance的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/07 is &amp; isinstance的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/08 子类重写父类方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/08 子类重写父类方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/09 不使用多态的问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/09 不使用多态的问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 继承和多态/10 多态的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 继承和多态/10 多态的使用.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +66,8 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
-  <component name="RunManager" selected="Python.10 练习">
-    <configuration name="06 类属性和对象方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10 多态的使用">
+    <configuration name="04 私有属性的继承特点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +75,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 继承和多态" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 面向对象进阶/06 类属性和对象方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 继承和多态/04 私有属性的继承特点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07 私有属性和方法的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07 is &amp; isinstance的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 继承和多态" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 面向对象进阶/07 私有属性和方法的使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 继承和多态/07 is &amp; isinstance的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08 类方法和静态方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08 子类重写父类方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +119,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 继承和多态" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 面向对象进阶/08 类方法和静态方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 继承和多态/08 子类重写父类方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09 单例设计模式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09 不使用多态的问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 继承和多态" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 面向对象进阶/09 单例设计模式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 继承和多态/09 不使用多态的问题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10 练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10 多态的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 继承和多态" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 面向对象进阶/10 练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 继承和多态/10 多态的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10 练习" />
-        <item itemvalue="Python.09 单例设计模式" />
-        <item itemvalue="Python.08 类方法和静态方法" />
-        <item itemvalue="Python.07 私有属性和方法的使用" />
-        <item itemvalue="Python.06 类属性和对象方法" />
+        <item itemvalue="Python.10 多态的使用" />
+        <item itemvalue="Python.09 不使用多态的问题" />
+        <item itemvalue="Python.08 子类重写父类方法" />
+        <item itemvalue="Python.07 is &amp; isinstance的使用" />
+        <item itemvalue="Python.04 私有属性的继承特点" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +227,7 @@
       <workItem from="1606891596327" duration="9322000" />
       <workItem from="1607306061122" duration="61210000" />
       <workItem from="1607677389187" duration="3130000" />
-      <workItem from="1607842826345" duration="24948000" />
+      <workItem from="1607842826345" duration="47567000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -387,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607613107787</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="面向对象进阶">
+      <created>1608104641158</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608104641158</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +442,8 @@
     <MESSAGE value="基础10" />
     <MESSAGE value="基础11" />
     <MESSAGE value="面向对象基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="面向对象基础" />
+    <MESSAGE value="面向对象进阶" />
+    <option name="LAST_COMMIT_MESSAGE" value="面向对象进阶" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="279" key="#Notifications" timestamp="1601188974069">
@@ -442,25 +460,25 @@
     </state>
     <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604415179347" />
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606277517520" />
-    <state width="606" height="314" key="GridCell.Tab.0.bottom" timestamp="1608025091519">
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom" timestamp="1608282408349">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="606" height="314" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608025091519" />
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608282408349" />
     <state width="632" height="345" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606222799785" />
-    <state width="606" height="314" key="GridCell.Tab.0.center" timestamp="1608025091519">
+    <state width="1493" height="314" key="GridCell.Tab.0.center" timestamp="1608282408348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="606" height="314" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608025091519" />
+    <state width="1493" height="314" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608282408348" />
     <state width="632" height="345" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="606" height="314" key="GridCell.Tab.0.left" timestamp="1608025091519">
+    <state width="1493" height="314" key="GridCell.Tab.0.left" timestamp="1608282408348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="606" height="314" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608025091519" />
+    <state width="1493" height="314" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608282408348" />
     <state width="632" height="345" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="606" height="314" key="GridCell.Tab.0.right" timestamp="1608025091519">
+    <state width="1493" height="314" key="GridCell.Tab.0.right" timestamp="1608282408348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="606" height="314" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608025091519" />
+    <state width="1493" height="314" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608282408348" />
     <state width="632" height="345" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
     <state width="584" height="249" key="GridCell.Tab.1.bottom" timestamp="1607502612998">
       <screen x="0" y="0" width="1536" height="834" />
@@ -487,10 +505,10 @@
     </state>
     <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1607927787436" />
     <state x="404" y="1" width="1132" height="863" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606208354590" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1607613124435">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1608104655429">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607613124435" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608104655429" />
     <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606276505758" />
     <state x="565" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605599798037">
       <screen x="0" y="0" width="1536" height="864" />
@@ -505,10 +523,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="849" y="207" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1602662278459" />
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1607863200725">
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1608187606965">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1607863200725" />
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608187606965" />
     <state x="662" y="238" width="672" height="703" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606116090735" />
   </component>
   <component name="XDebuggerManager">
@@ -527,8 +545,9 @@
     <SUITE FILE_PATH="coverage/Demo$02_yield.coverage" NAME="02-yield表达式 Coverage Results" MODIFIED="1605080319424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_05" />
     <SUITE FILE_PATH="coverage/Demo$02_from___import.coverage" NAME="02-from...import导入模块的使用 Coverage Results" MODIFIED="1605665415068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_07" />
     <SUITE FILE_PATH="coverage/Demo$03_os.coverage" NAME="03-os模块 Coverage Results" MODIFIED="1605854478584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
+    <SUITE FILE_PATH="coverage/Demo$07_is___isinstance.coverage" NAME="07 is &amp; isinstance的使用 Coverage Results" MODIFIED="1608264070557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$04_if.coverage" NAME="04-if语句的嵌套 Coverage Results" MODIFIED="1598345786051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
-    <SUITE FILE_PATH="coverage/Demo$10_.coverage" NAME="10 练习 Coverage Results" MODIFIED="1608025089701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
+    <SUITE FILE_PATH="coverage/Demo$10_.coverage" NAME="10 多态的使用 Coverage Results" MODIFIED="1608282406452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$03_globalnonlobal.coverage" NAME="03 global与nonlobal Coverage Results" MODIFIED="1603358044616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_01" />
     <SUITE FILE_PATH="coverage/Demo$12_filter_map_reduce.coverage" NAME="12-filter&amp;map&amp;reduce方法 Coverage Results" MODIFIED="1602745053629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="随机数 Coverage Results" MODIFIED="1607593063710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -542,7 +561,7 @@
     <SUITE FILE_PATH="coverage/Demo$09_while1_100.coverage" NAME="09-while练习1-100的和 Coverage Results" MODIFIED="1598499680837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$05_format.coverage" NAME="05-字符串format方法的使用 Coverage Results" MODIFIED="1598943374736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$13_map.coverage" NAME="13-map的使用 Coverage Results" MODIFIED="1602745282489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
-    <SUITE FILE_PATH="coverage/Demo$09_.coverage" NAME="09 单例设计模式 Coverage Results" MODIFIED="1608024117218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
+    <SUITE FILE_PATH="coverage/Demo$09_.coverage" NAME="09 不使用多态的问题 Coverage Results" MODIFIED="1608280031496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$05_.coverage" NAME="05 把对象当作字典使用 Coverage Results" MODIFIED="1607866353110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
     <SUITE FILE_PATH="coverage/Demo$02_2.coverage" NAME="02-作业讲解2 Coverage Results" MODIFIED="1600230877487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$01_jsonpickle.coverage" NAME="01-json与pickle模块 Coverage Results" MODIFIED="1606112564447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_09" />
@@ -550,21 +569,21 @@
     <SUITE FILE_PATH="coverage/Demo$src.coverage" NAME="src Coverage Results" MODIFIED="1606205083519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_10" />
     <SUITE FILE_PATH="coverage/Demo$11_.coverage" NAME="11-函数调用函数 Coverage Results" MODIFIED="1601972251215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$14_reduce.coverage" NAME="14-reduce的使用 Coverage Results" MODIFIED="1602747480552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
-    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02 面向对象的基本语法 Coverage Results" MODIFIED="1607523778390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 面向对象" />
+    <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02 继承的注意事项 Coverage Results" MODIFIED="1608189559664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$15_.coverage" NAME="15-高阶函数的使用 Coverage Results" MODIFIED="1602752617212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$04_sys.coverage" NAME="04-sys模块 Coverage Results" MODIFIED="1605928748792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
     <SUITE FILE_PATH="coverage/Demo$18_.coverage" NAME="18-字典的推导式 Coverage Results" MODIFIED="1600156924465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$12_.coverage" NAME="12-修改和新增数据 Coverage Results" MODIFIED="1600070765009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$02_configparser.coverage" NAME="02-configparser模块 Coverage Results" MODIFIED="1606116310055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_09" />
-    <SUITE FILE_PATH="coverage/Demo$08_.coverage" NAME="08 类方法和静态方法 Coverage Results" MODIFIED="1607929973549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
+    <SUITE FILE_PATH="coverage/Demo$08_.coverage" NAME="08 子类重写父类方法 Coverage Results" MODIFIED="1608274577452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$03_self.coverage" NAME="03 self的介绍 Coverage Results" MODIFIED="1607587419900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 面向对象" />
-    <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04 内置属性 Coverage Results" MODIFIED="1607865201592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
+    <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04 私有属性的继承特点 Coverage Results" MODIFIED="1608191608619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$16_.coverage" NAME="16-字典的练习 Coverage Results" MODIFIED="1600154526186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$02_random.coverage" NAME="02-random模块 Coverage Results" MODIFIED="1605843862510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
     <SUITE FILE_PATH="coverage/Demo$14_update.coverage" NAME="14-update方法的使用 Coverage Results" MODIFIED="1600071880176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$01_logging.coverage" NAME="01-logging模块 Coverage Results" MODIFIED="1606196644111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_10" />
     <SUITE FILE_PATH="coverage/Demo$08_While.coverage" NAME="08-While语句的基本使用 Coverage Results" MODIFIED="1598434741709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
-    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01 面向对象的练习 Coverage Results" MODIFIED="1607679337593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
+    <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01 继承的基本使用 Coverage Results" MODIFIED="1608187880666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$07_.coverage" NAME="07 私有属性和方法的使用 Coverage Results" MODIFIED="1607927628540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
     <SUITE FILE_PATH="coverage/Demo$13_.coverage" NAME="13-字典的增删改操作 Coverage Results" MODIFIED="1600071272008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$01___1_.coverage" NAME="01_变量以及数据类型 (1) Coverage Results" MODIFIED="1597821562797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
