@@ -10,8 +10,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="test">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="文件操作">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 序列化反序列化和异常处理/01 json字符串详解.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 序列化反序列化和异常处理/01 json字符串详解.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 序列化反序列化和异常处理/02 pickle的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 序列化反序列化和异常处理/02 pickle的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 序列化反序列化和异常处理/03 json和pickle的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 序列化反序列化和异常处理/03 json和pickle的区别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 序列化反序列化和异常处理/04 异常处理基本语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 序列化反序列化和异常处理/04 异常处理基本语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 序列化反序列化和异常处理/05 异常处理的使用场景.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 序列化反序列化和异常处理/05 异常处理的使用场景.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 序列化反序列化和异常处理/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05 序列化反序列化和异常处理/names.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +60,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Django项目/hellodjango" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
-  <component name="RunManager" selected="Python.01 json字符串详解">
-    <configuration name="01 json字符串详解" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09 自定义异常">
+    <configuration name="05 异常处理的使用场景" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +77,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/01 json字符串详解.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/05 异常处理的使用场景.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03 文件的打开方式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06 finally关键字的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 文件/03 文件的打开方式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/06 finally关键字的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04 文件的读取方式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08 上下文管理器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 文件/04 文件的读取方式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/08 上下文管理器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05 文件的拷贝功能" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09 自定义异常" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 文件/05 文件的拷贝功能.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/09 自定义异常.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06 csv文件的读写" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="练习1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +160,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 文件/06 csv文件的读写.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/练习1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01 json字符串详解" />
-        <item itemvalue="Python.06 csv文件的读写" />
-        <item itemvalue="Python.05 文件的拷贝功能" />
-        <item itemvalue="Python.04 文件的读取方式" />
-        <item itemvalue="Python.03 文件的打开方式" />
+        <item itemvalue="Python.09 自定义异常" />
+        <item itemvalue="Python.08 上下文管理器" />
+        <item itemvalue="Python.06 finally关键字的使用" />
+        <item itemvalue="Python.练习1" />
+        <item itemvalue="Python.05 异常处理的使用场景" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +226,7 @@
       <workItem from="1607677389187" duration="3130000" />
       <workItem from="1607842826345" duration="55240000" />
       <workItem from="1608512507270" duration="7359000" />
-      <workItem from="1608534885855" duration="5510000" />
+      <workItem from="1608534885855" duration="29859000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -410,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608284074591</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="文件操作">
+      <created>1608772666739</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1608772666739</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,9 +465,14 @@
     <MESSAGE value="面向对象进阶" />
     <MESSAGE value="面向对象进阶(继承与多态)" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="文件操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件操作" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="96" key="#Inspections" timestamp="1608820098351">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="96" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1608820098351" />
     <state x="651" y="279" key="#Notifications" timestamp="1601188974069">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -463,30 +482,34 @@
     </state>
     <state x="984" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1607392883320" />
     <state x="984" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1605603053872" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1608855449191">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1608855449191" />
     <state x="548" y="164" key="FileChooserDialogImpl" timestamp="1606277517520">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604415179347" />
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606277517520" />
-    <state width="1493" height="314" key="GridCell.Tab.0.bottom" timestamp="1608535547546">
+    <state width="1493" height="316" key="GridCell.Tab.0.bottom" timestamp="1608988052533">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="314" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608535547546" />
+    <state width="1493" height="316" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608988052533" />
     <state width="632" height="345" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606222799785" />
-    <state width="1493" height="314" key="GridCell.Tab.0.center" timestamp="1608535547545">
+    <state width="1493" height="316" key="GridCell.Tab.0.center" timestamp="1608988052532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="314" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608535547545" />
+    <state width="1493" height="316" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608988052532" />
     <state width="632" height="345" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="1493" height="314" key="GridCell.Tab.0.left" timestamp="1608535547545">
+    <state width="1493" height="316" key="GridCell.Tab.0.left" timestamp="1608988052532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="314" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608535547545" />
+    <state width="1493" height="316" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608988052532" />
     <state width="632" height="345" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="1493" height="314" key="GridCell.Tab.0.right" timestamp="1608535547546">
+    <state width="1493" height="316" key="GridCell.Tab.0.right" timestamp="1608988052532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="314" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608535547546" />
+    <state width="1493" height="316" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608988052532" />
     <state width="632" height="345" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
     <state width="584" height="249" key="GridCell.Tab.1.bottom" timestamp="1607502612998">
       <screen x="0" y="0" width="1536" height="834" />
@@ -508,16 +531,20 @@
     </state>
     <state width="584" height="249" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1607502612998" />
     <state width="600" height="272" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
-    <state x="200" y="20" width="1132" height="814" key="SettingsEditor" timestamp="1608534864135">
+    <state x="200" y="20" width="1132" height="814" key="SettingsEditor" timestamp="1608879306059">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608534864135" />
+    <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608879306059" />
     <state x="404" y="1" width="1132" height="863" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606208354590" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1608284082940">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1608772699042">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608284082940" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608772699042" />
     <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606276505758" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608820852891">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1608820852891" />
     <state x="565" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605599798037">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -563,14 +590,15 @@
     <SUITE FILE_PATH="coverage/Demo$14_.coverage" NAME="14-列表的浅复制 Coverage Results" MODIFIED="1599031483456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$run1.coverage" NAME="run1 Coverage Results" MODIFIED="1605597649621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_06" />
     <SUITE FILE_PATH="coverage/Demo$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1605751881836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_07/mmm" />
+    <SUITE FILE_PATH="coverage/Demo$02_pickle.coverage" NAME="02 pickle的使用 Coverage Results" MODIFIED="1608802513215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$02_if.coverage" NAME="02-if语句练习 Coverage Results" MODIFIED="1598324046467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$03_haslib.coverage" NAME="03-haslib模块 Coverage Results" MODIFIED="1606124238598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_09" />
     <SUITE FILE_PATH="coverage/Demo$05_evaljson.coverage" NAME="05-eval和json的使用 Coverage Results" MODIFIED="1601275074708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$09_while1_100.coverage" NAME="09-while练习1-100的和 Coverage Results" MODIFIED="1598499680837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$05_format.coverage" NAME="05-字符串format方法的使用 Coverage Results" MODIFIED="1598943374736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Demo$13_map.coverage" NAME="13-map的使用 Coverage Results" MODIFIED="1602745282489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
-    <SUITE FILE_PATH="coverage/Demo$09_.coverage" NAME="09 不使用多态的问题 Coverage Results" MODIFIED="1608280031496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
-    <SUITE FILE_PATH="coverage/Demo$05_.coverage" NAME="05 文件的拷贝功能 Coverage Results" MODIFIED="1608532622132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 文件" />
+    <SUITE FILE_PATH="coverage/Demo$09_.coverage" NAME="09 自定义异常 Coverage Results" MODIFIED="1608987831275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
+    <SUITE FILE_PATH="coverage/Demo$05_.coverage" NAME="05 异常处理的使用场景 Coverage Results" MODIFIED="1608820278559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$02_2.coverage" NAME="02-作业讲解2 Coverage Results" MODIFIED="1600230877487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$01_jsonpickle.coverage" NAME="01-json与pickle模块 Coverage Results" MODIFIED="1606112564447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_09" />
     <SUITE FILE_PATH="coverage/Demo$02_re.coverage" NAME="02-re模块 Coverage Results" MODIFIED="1606222640327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_10" />
@@ -583,10 +611,10 @@
     <SUITE FILE_PATH="coverage/Demo$18_.coverage" NAME="18-字典的推导式 Coverage Results" MODIFIED="1600156924465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$12_.coverage" NAME="12-修改和新增数据 Coverage Results" MODIFIED="1600070765009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$02_configparser.coverage" NAME="02-configparser模块 Coverage Results" MODIFIED="1606116310055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_09" />
-    <SUITE FILE_PATH="coverage/Demo$08_.coverage" NAME="08 子类重写父类方法 Coverage Results" MODIFIED="1608274577452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
-    <SUITE FILE_PATH="coverage/Demo$01_json.coverage" NAME="01 json字符串详解 Coverage Results" MODIFIED="1608772611671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
+    <SUITE FILE_PATH="coverage/Demo$08_.coverage" NAME="08 上下文管理器 Coverage Results" MODIFIED="1608986197401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
+    <SUITE FILE_PATH="coverage/Demo$01_json.coverage" NAME="01 json字符串详解 Coverage Results" MODIFIED="1608800075928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$03_self.coverage" NAME="03 self的介绍 Coverage Results" MODIFIED="1607587419900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 面向对象" />
-    <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04 文件的读取方式 Coverage Results" MODIFIED="1608520460793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 文件" />
+    <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04 异常处理基本语句 Coverage Results" MODIFIED="1608819939083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$16_.coverage" NAME="16-字典的练习 Coverage Results" MODIFIED="1600154526186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$02_random.coverage" NAME="02-random模块 Coverage Results" MODIFIED="1605843862510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
     <SUITE FILE_PATH="coverage/Demo$14_update.coverage" NAME="14-update方法的使用 Coverage Results" MODIFIED="1600071880176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
@@ -595,12 +623,14 @@
     <SUITE FILE_PATH="coverage/Demo$01_.coverage" NAME="01 文件的打开和关闭 Coverage Results" MODIFIED="1608292805958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 文件" />
     <SUITE FILE_PATH="coverage/Demo$07_.coverage" NAME="07 私有属性和方法的使用 Coverage Results" MODIFIED="1607927628540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
     <SUITE FILE_PATH="coverage/Demo$13_.coverage" NAME="13-字典的增删改操作 Coverage Results" MODIFIED="1600071272008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
+    <SUITE FILE_PATH="coverage/Demo$06_finally.coverage" NAME="06 finally关键字的使用 Coverage Results" MODIFIED="1608883230628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$01___1_.coverage" NAME="01_变量以及数据类型 (1) Coverage Results" MODIFIED="1597821562797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_02" />
     <SUITE FILE_PATH="coverage/Demo$test.coverage" NAME="test Coverage Results" MODIFIED="1607675412005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 面向对象进阶" />
     <SUITE FILE_PATH="coverage/Demo$06_csv.coverage" NAME="06 csv文件的读写 Coverage Results" MODIFIED="1608535542630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 文件" />
     <SUITE FILE_PATH="coverage/Demo$07_if.coverage" NAME="07-if语句的判断注意点 Coverage Results" MODIFIED="1598428974529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$run.coverage" NAME="run Coverage Results" MODIFIED="1605604306758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_07" />
     <SUITE FILE_PATH="coverage/Demo$17_2.coverage" NAME="17-字典的练习2 Coverage Results" MODIFIED="1600156175791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
+    <SUITE FILE_PATH="coverage/Demo$1.coverage" NAME="练习1 Coverage Results" MODIFIED="1608879269471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$11_sort.coverage" NAME="11-sort方法的使用 Coverage Results" MODIFIED="1602687026022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
   </component>
 </project>
