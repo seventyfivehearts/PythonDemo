@@ -10,13 +10,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="名片管理系统">
-      <change beforePath="$PROJECT_DIR$/.idea/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_07/07-深拷贝和浅拷贝的介绍.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_07/07-深拷贝和浅拷贝的介绍.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础_06/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础_06/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础_07/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础_07/model.py" afterDir="false" />
-    </list>
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="学生管理系统完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,7 +231,7 @@
       <workItem from="1607842826345" duration="55240000" />
       <workItem from="1608512507270" duration="7359000" />
       <workItem from="1608534885855" duration="48059000" />
-      <workItem from="1609398547486" duration="25900000" />
+      <workItem from="1609398547486" duration="26224000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -456,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609076265278</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="学生管理系统完成">
+      <created>1609917263913</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1609917263913</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="第二天练习结束" />
     <MESSAGE value="第三天" />
     <MESSAGE value="第四天" />
     <MESSAGE value="第五天" />
@@ -500,7 +500,8 @@
     <MESSAGE value="文件操作" />
     <MESSAGE value="序列化与异常处理" />
     <MESSAGE value="名片管理系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="名片管理系统" />
+    <MESSAGE value="学生管理系统完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="学生管理系统完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="96" key="#Inspections" timestamp="1608820098351">
@@ -525,25 +526,25 @@
     </state>
     <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1609399911365" />
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606277517520" />
-    <state width="1493" height="315" key="GridCell.Tab.0.bottom" timestamp="1609917013206">
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom" timestamp="1609917186260">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609917186260" />
     <state width="632" height="345" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606222799785" />
-    <state width="1493" height="315" key="GridCell.Tab.0.center" timestamp="1609917013206">
+    <state width="1493" height="315" key="GridCell.Tab.0.center" timestamp="1609917186260">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
+    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609917186260" />
     <state width="632" height="345" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="1493" height="315" key="GridCell.Tab.0.left" timestamp="1609917013206">
+    <state width="1493" height="315" key="GridCell.Tab.0.left" timestamp="1609917186260">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
+    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609917186260" />
     <state width="632" height="345" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="1493" height="315" key="GridCell.Tab.0.right" timestamp="1609917013206">
+    <state width="1493" height="315" key="GridCell.Tab.0.right" timestamp="1609917186260">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
+    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609917186260" />
     <state width="632" height="345" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
     <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1609400307634">
       <screen x="0" y="0" width="1536" height="834" />
