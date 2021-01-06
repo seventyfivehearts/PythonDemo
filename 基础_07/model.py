@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/17 17:10
 # @Author  : sunzhen
-# @File    : model.py
+# @File    : mod.py
 # @Software: PyCharm
 
 x = 111

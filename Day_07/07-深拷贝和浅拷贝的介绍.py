@@ -1,5 +1,6 @@
 import copy
-words = ['hello','happy','hey',[100,200,300],'hi']
+
+words = ['hello', 'happy', 'hey', [100, 200, 300], 'hi']
 
 # 浅拷贝  浅拷贝认为只拷贝了一层
 

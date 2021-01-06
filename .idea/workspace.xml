@@ -10,8 +10,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="序列化与异常处理">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="名片管理系统">
+      <change beforePath="$PROJECT_DIR$/.idea/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_07/07-深拷贝和浅拷贝的介绍.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_07/07-深拷贝和浅拷贝的介绍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础_06/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础_06/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础_07/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础_07/model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,100 +55,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Django项目/hellodjango" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BaiduNetdiskDownload/1 2020千锋Python入门视频全套全开源（最新版）/2020千锋Python入门视频全套全开源（最新版） 笔记+代码+课件+资料/Day17-学生管理系统/01-代码" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
-  <component name="RunManager" selected="Python.card">
-    <configuration name="06 finally关键字的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/06 finally关键字的使用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08 上下文管理器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/08 上下文管理器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="09 自定义异常" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/09 自定义异常.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="练习1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 序列化反序列化和异常处理/练习1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Demo" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Demo" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmDemo\Demo\08 学生管理系统\file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.index">
     <configuration name="card" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,13 +96,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="file_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 学生管理系统" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 学生管理系统/file_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 学生管理系统" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 学生管理系统/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 学生管理系统" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 学生管理系统/student_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 学生管理系统" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 学生管理系统/tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.student_manager" />
+        <item itemvalue="Python.tools" />
+        <item itemvalue="Python.file_manager" />
         <item itemvalue="Python.card" />
-        <item itemvalue="Python.09 自定义异常" />
-        <item itemvalue="Python.08 上下文管理器" />
-        <item itemvalue="Python.06 finally关键字的使用" />
-        <item itemvalue="Python.练习1" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +236,8 @@
       <workItem from="1607677389187" duration="3130000" />
       <workItem from="1607842826345" duration="55240000" />
       <workItem from="1608512507270" duration="7359000" />
-      <workItem from="1608534885855" duration="35240000" />
+      <workItem from="1608534885855" duration="48059000" />
+      <workItem from="1609398547486" duration="25900000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -431,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609059439462</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="名片管理系统">
+      <created>1609076265278</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1609076265278</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +499,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="文件操作" />
     <MESSAGE value="序列化与异常处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="序列化与异常处理" />
+    <MESSAGE value="名片管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="名片管理系统" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="96" key="#Inspections" timestamp="1608820098351">
@@ -494,60 +520,60 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1608855449191" />
-    <state x="548" y="164" key="FileChooserDialogImpl" timestamp="1606277517520">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1609399911365">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604415179347" />
+    <state x="548" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1609399911365" />
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606277517520" />
-    <state width="1493" height="312" key="GridCell.Tab.0.bottom" timestamp="1609076183303">
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom" timestamp="1609917013206">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="312" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609076183303" />
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
     <state width="632" height="345" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606222799785" />
-    <state width="1493" height="312" key="GridCell.Tab.0.center" timestamp="1609076183303">
+    <state width="1493" height="315" key="GridCell.Tab.0.center" timestamp="1609917013206">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="312" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609076183303" />
+    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
     <state width="632" height="345" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="1493" height="312" key="GridCell.Tab.0.left" timestamp="1609076183303">
+    <state width="1493" height="315" key="GridCell.Tab.0.left" timestamp="1609917013206">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="312" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609076183303" />
+    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
     <state width="632" height="345" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="1493" height="312" key="GridCell.Tab.0.right" timestamp="1609076183303">
+    <state width="1493" height="315" key="GridCell.Tab.0.right" timestamp="1609917013206">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="312" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609076183303" />
+    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609917013206" />
     <state width="632" height="345" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606222799784" />
-    <state width="584" height="249" key="GridCell.Tab.1.bottom" timestamp="1607502612998">
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1609400307634">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="584" height="249" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607502612998" />
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609400307634" />
     <state width="600" height="272" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
-    <state width="584" height="249" key="GridCell.Tab.1.center" timestamp="1607502612998">
+    <state width="1493" height="256" key="GridCell.Tab.1.center" timestamp="1609400307634">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="584" height="249" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1607502612998" />
+    <state width="1493" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1609400307634" />
     <state width="600" height="272" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
-    <state width="584" height="249" key="GridCell.Tab.1.left" timestamp="1607502612998">
+    <state width="1493" height="256" key="GridCell.Tab.1.left" timestamp="1609400307634">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="584" height="249" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1607502612998" />
+    <state width="1493" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1609400307634" />
     <state width="600" height="272" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
-    <state width="584" height="249" key="GridCell.Tab.1.right" timestamp="1607502612998">
+    <state width="1493" height="256" key="GridCell.Tab.1.right" timestamp="1609400307634">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="584" height="249" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1607502612998" />
+    <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1609400307634" />
     <state width="600" height="272" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
-    <state x="200" y="20" width="1132" height="814" key="SettingsEditor" timestamp="1608879306059">
+    <state x="200" y="20" width="1132" height="814" key="SettingsEditor" timestamp="1609400965472">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608879306059" />
+    <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609400965472" />
     <state x="404" y="1" width="1132" height="863" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606208354590" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1609059454451">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1609076274879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1609059454451" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1609076274879" />
     <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606276505758" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608820852891">
       <screen x="0" y="0" width="1536" height="834" />
@@ -566,10 +592,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="849" y="207" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1602662278459" />
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1608532599484">
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1609831380129">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608532599484" />
+    <state x="662" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1609831380129" />
     <state x="662" y="238" width="672" height="703" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606116090735" />
   </component>
   <component name="XDebuggerManager">
@@ -579,6 +605,11 @@
           <url>file://$PROJECT_DIR$/day_02/注释.py</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08 学生管理系统/student_manager.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -592,6 +623,7 @@
     <SUITE FILE_PATH="coverage/Demo$04_if.coverage" NAME="04-if语句的嵌套 Coverage Results" MODIFIED="1598345786051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Demo$10_.coverage" NAME="10 多态的使用 Coverage Results" MODIFIED="1608282406452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03 继承和多态" />
     <SUITE FILE_PATH="coverage/Demo$03_globalnonlobal.coverage" NAME="03 global与nonlobal Coverage Results" MODIFIED="1603358044616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_01" />
+    <SUITE FILE_PATH="coverage/Demo$index.coverage" NAME="index Coverage Results" MODIFIED="1609917186251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08 学生管理系统" />
     <SUITE FILE_PATH="coverage/Demo$12_filter_map_reduce.coverage" NAME="12-filter&amp;map&amp;reduce方法 Coverage Results" MODIFIED="1602745053629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$.coverage" NAME="随机数 Coverage Results" MODIFIED="1607593063710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Demo$03_.coverage" NAME="03 文件的打开方式 Coverage Results" MODIFIED="1608297065662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 文件" />
@@ -613,9 +645,11 @@
     <SUITE FILE_PATH="coverage/Demo$src.coverage" NAME="src Coverage Results" MODIFIED="1606205083519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_10" />
     <SUITE FILE_PATH="coverage/Demo$11_.coverage" NAME="11-函数调用函数 Coverage Results" MODIFIED="1601972251215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_08" />
     <SUITE FILE_PATH="coverage/Demo$14_reduce.coverage" NAME="14-reduce的使用 Coverage Results" MODIFIED="1602747480552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
+    <SUITE FILE_PATH="coverage/Demo$file_manager.coverage" NAME="file_manager Coverage Results" MODIFIED="1609125382505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08 学生管理系统" />
     <SUITE FILE_PATH="coverage/Demo$02_.coverage" NAME="02 路径的介绍 Coverage Results" MODIFIED="1608293993851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 文件" />
     <SUITE FILE_PATH="coverage/Demo$15_.coverage" NAME="15-高阶函数的使用 Coverage Results" MODIFIED="1602752617212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_09" />
     <SUITE FILE_PATH="coverage/Demo$04_sys.coverage" NAME="04-sys模块 Coverage Results" MODIFIED="1605928748792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
+    <SUITE FILE_PATH="coverage/Demo$tools.coverage" NAME="tools Coverage Results" MODIFIED="1609315520522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08 学生管理系统" />
     <SUITE FILE_PATH="coverage/Demo$18_.coverage" NAME="18-字典的推导式 Coverage Results" MODIFIED="1600156924465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$card.coverage" NAME="card Coverage Results" MODIFIED="1609076172173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07 名片管理系统" />
     <SUITE FILE_PATH="coverage/Demo$12_.coverage" NAME="12-修改和新增数据 Coverage Results" MODIFIED="1600070765009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
@@ -625,6 +659,7 @@
     <SUITE FILE_PATH="coverage/Demo$03_self.coverage" NAME="03 self的介绍 Coverage Results" MODIFIED="1607587419900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 面向对象" />
     <SUITE FILE_PATH="coverage/Demo$04_.coverage" NAME="04 异常处理基本语句 Coverage Results" MODIFIED="1608819939083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05 序列化反序列化和异常处理" />
     <SUITE FILE_PATH="coverage/Demo$16_.coverage" NAME="16-字典的练习 Coverage Results" MODIFIED="1600154526186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
+    <SUITE FILE_PATH="coverage/Demo$student_manager.coverage" NAME="student_manager Coverage Results" MODIFIED="1609917182456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08 学生管理系统" />
     <SUITE FILE_PATH="coverage/Demo$02_random.coverage" NAME="02-random模块 Coverage Results" MODIFIED="1605843862510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_08" />
     <SUITE FILE_PATH="coverage/Demo$14_update.coverage" NAME="14-update方法的使用 Coverage Results" MODIFIED="1600071880176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_07" />
     <SUITE FILE_PATH="coverage/Demo$01_logging.coverage" NAME="01-logging模块 Coverage Results" MODIFIED="1606196644111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础_10" />
