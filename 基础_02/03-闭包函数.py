@@ -53,17 +53,29 @@
 # f1(1)
 
 # 方式二:
-def f1():
-    x = 3
+# def f1():
+#     x = 3
+#
+#     def f2():
+#         print(x)
+#
+#     # f2(x)
+#     return f2
+#
+#
+# # f2()
+#
+# f = f1()
+# f()
 
-    def f2():
-        print(x)
+def outer(n):
+	num = n
+	
+	def inner():
+		return num + 1
+	
+	return inner
 
-    # f2(x)
-    return f2
 
-
-# f2()
-
-f = f1()
-f()
+print(outer(3)())  # 4
+print(outer(5)())  # 6
