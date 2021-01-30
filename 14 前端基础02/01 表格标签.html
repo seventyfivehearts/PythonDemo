@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--border 加外框 10 变为立体-->
+<!--cellpadding 框内文字与边框的距离-->
+<table border="1" cellpadding="10">
+<!--    表头放一些字段信息-->
+    <thead>
+<!--一个tr表示一行-->
+    <tr>
+<!--        习惯表头加粗使用th(加粗文本)-->
+        <th>username</th>
+        <th>password</th>
+        <th>hobby</th>
+<!--        正常文本-->
+<!--        <td>username</td>-->
+    </tr>
+    </thead>
+<!--    表单 放一些数据信息-->
+    <tbody>
+        <tr>
+<!--            colspan 水平方向占几行-->
+            <td colspan="2">tony</td>
+<!--            <td>123</td>-->
+            <td>read</td>
+        </tr>
+        <tr>
+<!--             rowspan 垂直方向占两行-->
+            <td rowspan="2">123</td>
+            <td>123</td>
+            <td>123</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
+
+<!--后续一般使用框架封装好的-->

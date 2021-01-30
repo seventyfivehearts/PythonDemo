@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>注册界面</h1>
+<!--    在改form标签内部书写的获取用户的数据都会
+被form表单提交到后端-->
+<!--    action 控制数据提交的后端的路径
+    (给那个服务端提交数据)
+    1. 什么都不写 默认朝当前页面所在的url进行提交
+    2. 全路径 朝着指定的路径提交
+    3. 只写路径后缀  自动识别当前的ip和端口(port)拼接到前面
+    -->
+<form action="">
+    <p>
+        <!--        label for="id" 点击提示到对应的输入框中-->
+        <label for="d1">
+            <!--        input 用户输入-->
+            username: <input type="text" id="d1" value="默认值">
+        </label>
+    </p>
+    <p>
+        <label for="d2">
+            password: <input type="password" id="d2">
+        </label>
+    </p>
+    <p>
+        <label for="d3">
+            生日: <input type="date" id="d3">
+        </label>
+    </p>
+
+    <p>
+        <label for="s1">
+            <!--            没有指定文本的内容 不同浏览器打开之后
+            渲染的文本内容不一致-->
+            <input type="submit" id="s1" value="注册">
+            <input type="button" value="按钮">
+            <input type="reset" value="重置">
+        </label>
+    </p>
+    <button>
+        点击
+    </button>
+
+    <p>
+        <label for="s2">性别:
+            <!--            checked="checked" 默认勾选
+                            属性名和属性值相同可以简写-->
+            <input type="radio" id="s2" name="gender" checked="checked">男
+            <input type="radio" name="gender">其他
+            <input type="radio" name="gender">女
+        </label>
+    </p>
+    <p>
+        <label for="h1">爱好
+            <!--            默认选中 checked-->
+            <input type="checkbox" id="h1" checked>read
+            <input type="checkbox" id="h2">play
+            <input type="checkbox" id="h3" checked>sleep
+        </label>
+    </p>
+
+    <p>省市
+        <!--            下拉框-->
+        <select name="" id="">
+            <option value="">上海</option>
+            <option value="" selected>北京</option>
+            <option value="">广州</option>
+        </select>
+    </p>
+    <p>天气
+        <select name="" id="" multiple>
+            <option value="" selected>晴</option>
+            <option value="">阴</option>
+            <option value="">多云</option>
+        </select>
+    </p>
+    <p>
+<!--        获取文件-->
+<!--        multiple 一次可以选择多个文件-->
+        <label for="">
+            文件<input type="file" multiple>
+        </label>
+    </p>
+
+    <p>
+        <label for="">自我介绍
+            <textarea name="" id="" cols="30" rows="10" maxlength="20">
+
+            </textarea>
+        </label>
+    </p>
+</form>
+</body>
+</html>
+

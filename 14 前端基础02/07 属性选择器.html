@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        /*[username] {*/
+        /*    !*把所有的属性名为 username的标签改为红色*!*/
+        /*    background-color: red;*/
+        /*}*/
+
+        /*[username='tony']{*/
+        /*    */
+        /*    color: aqua;*/
+        /*}*/
+        input[username='tony']{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<input type="text" username>
+<input type="text" username="tony">
+<input type="text" username="jerry">
+</body>
+</html>
