@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        #d1 {
+            border: 3px solid violet;
+        }
+
+        #d2 {
+            height: 100px;
+            width: 100px;
+            background-color: blue;
+            float: left;
+        }
+
+        #d3 {
+            height: 100px;
+            width: 100px;
+            float: left;
+            background-color: greenyellow;
+        }
+
+        #d4 {
+            /*解决浮动带来的影响步骤*/
+            /*添加高度*/
+            /*height: 100px;*/
+
+            /*使用clear*/
+            /*该标签的左边不能有浮动的元素(空中和地面)*/
+            clear: left;
+        }
+        .clearfix:after{
+            content: '';
+            display: block;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+<div id="d1" class="clearfix">
+    <div id="d2"></div>
+    <div id="d3"></div>
+<!--    <div id="d4"></div>-->
+</div>
+</body>
+</html>

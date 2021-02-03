@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        .cover {
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 99;
+        }
+
+        .modal {
+            height: 200px;
+            width: 400px;
+            background-color: white;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            z-index: 100;
+            margin-top: -100px;;
+            margin-left: -200px;;
+        }
+    </style>
+</head>
+<body>
+<div>最底层页面</div>
+<div class="cover"></div>
+<div class="modal">
+    <h1>登录页面</h1>
+    <p>username <input type="text"></p>
+    <p>password <input type="text"></p>
+    <button>点击登录</button>
+</div>
+</body>
+</html>

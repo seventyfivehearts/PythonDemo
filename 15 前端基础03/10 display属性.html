@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #d1 {
+            /*隐藏标签不展示到前端
+            原来位置不再占用，文档之中还是有*/
+            /*display: none;*/
+            /*将标签设置为行内标签的特点 一行显示不能设置长宽*/
+            /*display: inline;*/
+
+            /*将标签设置为块级标签的特点*/
+            /*display: block;*/
+
+            /*标签可以在一行显示也可设置长宽*/
+            display: inline-block;
+            height: 100px;
+            width: 100px;
+            background-color: red;
+        }
+
+        #d2 {
+            display: inline-block;
+            height: 100px;
+            width: 100px;
+            background-color: greenyellow;
+        }
+    </style>
+</head>
+<body>
+<div id="d1">01</div>
+<div id="d2">02</div>
+<!--单纯的隐藏-->
+<div style="visibility: hidden">003</div>
+</body>
+</html>
