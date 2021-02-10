@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="func1()">点击</button>
+<button id="d1">点击</button>
+<script>
+    function func1() {
+        alert(1111)
+    }
+
+    let btnEle = document.getElementById('d1')
+    btnEle.onclick = function () {
+        alert(2222)
+    }
+</script>
+</body>
+</html>
