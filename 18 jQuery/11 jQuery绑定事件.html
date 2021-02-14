@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.4.1/jquery.js"></script>
+</head>
+<body>
+<button id="d1">第一个按钮</button>
+<button id="d2">第二个按钮</button>
+<script>
+    $('d1').click(function () {
+        alert('第一次点击')
+    });
+    $('d2').on('click', function () {
+        alert('第二次点击')
+    })
+</script>
+</body>
+</html>

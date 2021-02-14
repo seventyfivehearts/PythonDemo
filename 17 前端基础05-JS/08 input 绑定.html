@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" value="未点击之前" id="d1">
+
+<script>
+    //获取焦点
+    let inputEle = document.getElementById('d1')
+    inputEle.onfocus = function () {
+        inputEle.value = ''
+        //.value 获取  .value = 则是赋值
+    }
+    //失去焦点
+    inputEle.onblur = function () {
+        inputEle.value = '移开之后'
+    }
+</script>
+</body>
+</html>

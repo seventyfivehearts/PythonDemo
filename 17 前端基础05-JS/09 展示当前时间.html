@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="d1" style="display: block; height: 50px; width: 200px">
+<button id="d2">开始</button>
+<button id="d3">结束</button>
+<script>
+    let t = null
+    let inputEle = document.getElementById('d1')
+    let startBtnELe = document.getElementById('d2')
+    let endBtnEle = document.getElementById('d3')
+
+    function showtime() {
+        let currentTime = new Date()
+        inputEle.value = currentTime.toLocaleString()
+    }
+
+    startBtnELe.onclick = function () {
+        //实时显示时间
+        if (!t) {
+            t = setInterval(showtime, 1000)
+        }
+    }
+    endBtnEle.onclick = function () {
+        clearInterval(t)
+        t = null
+    }
+</script>
+</body>
+</html>

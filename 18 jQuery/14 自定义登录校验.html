@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.4.1/jquery.js"></script>
+</head>
+<body>
+<p>username:
+    <input type="text" id="id_username">
+    <span style="color: red"></span>
+</p>
+<p>
+    password:<input type="text" id="id_password">
+    <span style="color: red"></span>
+</p>
+<button id="id_button">提交</button>
+
+<script>
+    let $username = $('#id_username')
+    let $password = $('#id_password')
+    $('#id_button').click(function () {
+        let username = $username.val()
+        let password = $password.val()
+        if (!username) {
+            $username.next().text("用户名不能为空")
+        }
+        if (!password) {
+            $password.next().text("密码不能为空")
+        }
+    })
+    $('input').focus(function () {
+        $(this).next().text('')
+    })
+</script>
+</body>
+</html>

@@ -10,36 +10,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="前端基础CSS">
+    <list default="true" id="3908c95f-671e-4b5c-8c88-45c0a8e04ef0" name="Default Changelist" comment="Dom操作">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14 前端基础02/05 CSS基本选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/14 前端基础02/05 CSS基本选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14 前端基础02/06 组合选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/14 前端基础02/06 组合选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/01 分组与嵌套.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/01 分组与嵌套.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/02 伪类选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/02 伪类选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/03 伪元素选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/03 伪元素选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/04 选择器优先级.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/04 选择器优先级.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/06 字体属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/06 字体属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/06 长宽设置.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/06 长宽设置.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/07 文字属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/07 文字属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/08 背景属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/08 背景属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/09 边框.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/09 边框.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/10 display属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/10 display属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/111.png" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/111.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/12 盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/12 盒子模型.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/13 浮动.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/13 浮动.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/14 浮动例子.html" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/14 浮动例子.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 前端基础03/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 前端基础03-HTML/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/01 浮动带来的影响.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/01 浮动带来的影响.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/02 溢出属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/02 溢出属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/03 溢出应用.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/03 溢出应用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/04 定位.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/04 定位.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/05浮动和定位是否脱离文档流.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/05浮动和定位是否脱离文档流.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/06 模态框.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/06 模态框.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/07 透明度.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/07 透明度.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/08 搭建博客园首页.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/08 搭建博客园首页.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 前端基础04/blog_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/16 前端基础04-CSS/blog_css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/17 前端基础05-JS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.2232416" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -104,6 +76,10 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmDemo\Demo\18 jQuery" />
+      <recent name="D:\PycharmDemo\Demo\17 前端基础05-JS" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmDemo\Demo\17 前端基础05-JS" />
       <recent name="D:\PycharmDemo\Demo\16 前端基础04" />
@@ -283,7 +259,8 @@
       <workItem from="1612236196822" duration="16035000" />
       <workItem from="1612347758673" duration="9157000" />
       <workItem from="1612616494230" duration="1332000" />
-      <workItem from="1612880441174" duration="7578000" />
+      <workItem from="1612880441174" duration="7823000" />
+      <workItem from="1613181664321" duration="28704000" />
     </task>
     <task id="LOCAL-00001" summary="第二天练习结束">
       <created>1597974953927</created>
@@ -537,7 +514,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612348058036</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Dom操作">
+      <created>1612952125303</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1612952125303</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Dom操作">
+      <created>1612952136320</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1612952136320</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +547,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="第6天" />
     <MESSAGE value="第7天" />
     <MESSAGE value="第7天完成" />
     <MESSAGE value="09" />
@@ -581,7 +571,8 @@
     <MESSAGE value="装饰器" />
     <MESSAGE value="前端基础1-2" />
     <MESSAGE value="前端基础CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="前端基础CSS" />
+    <MESSAGE value="Dom操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dom操作" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="96" key="#Inspections" timestamp="1608820098351">
@@ -650,16 +641,16 @@
     <state width="724" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611582487357" />
     <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1610184350156" />
     <state width="600" height="272" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606196368936" />
-    <state x="200" y="19" width="1132" height="814" key="SettingsEditor" timestamp="1612406249655">
+    <state x="200" y="19" width="1132" height="814" key="SettingsEditor" timestamp="1613190071640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="200" y="19" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612406249655" />
+    <state x="200" y="19" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613190071640" />
     <state x="200" y="20" width="1132" height="814" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609400965472" />
     <state x="404" y="1" width="1132" height="863" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606208354590" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1612348080885">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1612952146649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612348080885" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612952146649" />
     <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1611979496311" />
     <state x="361" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606276505758" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608820852891">
